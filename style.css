@@ -1,0 +1,46 @@
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.heading {
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px greenyellow;
+}
+
+.heading_div{
+    float: none;
+    background: paleturquoise;
+    padding:10px;
+    border-radius: 20px;
+    color: darkblue;
+    box-shadow:5px 5px 5px greenyellow;
+}
+
+.heading_div2{
+    font-size: 18px;
+}
+
+.result_para_tag{
+    box-shadow:5px 5px 5px darkorchid;
+    font-size: 20px;
+}
+
+.my_footer{
+    position: fixed;
+    color: darkblue;
+    bottom: 0;
+    width: 100%;
+    background-color:powderblue;
+    line-height: 3;
+    text-align: center;
+}
+
+canvas{
+    border: 5px solid plum;
+    border-radius: 20px;
+    box-shadow:5px 5px 5px deepskyblue;
+    margin-top: 200px;
+}
